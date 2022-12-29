@@ -1,4 +1,4 @@
-# EDA--ANALISE-EXPLORATORIA-_REDE_ENCOMECE
+# EDA--ANALISE-EXPLORATORIA-_REDE_ECOMMERCE
 INTRODUÇÃO
 Uma das grandes dificuldades das empresas é entender seus consumidores dentro de suas características como: idade, `índice de reclamações e satisfação do serviços prestados, etc. Diante Disso, este projeto busca através dos consumidores coletar informações para diagnosticar o perfil das empresas no segmento do comércio eletrônico, e para obter informações foi pesquisado a base de dados do portal"Consumidor. gov" no período de julho de 2021. A base consta com informações de reclamações ligados aos vários setores no Brasil vinculados aos principais órgãos de defesa do consumidor. Tais informações buscam entender tanto os clientes e as empresas prestadoras dos seus serviços. Entender os consumidores atrelado aos comportamento do processos de negócio busca uma melhor tomada das decisões por parte dos seus gestores, e consequentemente ganhos de competitividade.
 
